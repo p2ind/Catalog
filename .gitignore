@@ -1,0 +1,4 @@
+bin\
+.vsCode\
+.gitignore\
+obj\
